@@ -1,9 +1,9 @@
 {
-  "name": "nodetemplate",
+  "name": "template",
   "description": "",
   "main": "gulpfile.js",
   "authors": [
-    "Taylor Pokoj <pokojt@gmail.com>"
+    "simon <student@epicodus.com>"
   ],
   "license": "ISC",
   "moduleType": [],
@@ -14,5 +14,10 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6",
+    "moment": "^2.12.0"
+  }
 }
